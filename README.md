@@ -1,6 +1,7 @@
 # discord-verification-bot
 A free, self-hosted verification bot for community use/to improve your FiveM server's anti-spoofing protections
 
+
 # What is does
 
 - Posts a clean verify panel (embed + button) to your chosen channel
@@ -17,14 +18,16 @@ Add this [bot](https://discord.com/oauth2/authorize?client_id=140625774617271100
 - Use the /modify-panel command to start modifying your embed
 - Use the /config-roles command to choose the verified role to assign to users (you can also set an "unverified role" that is assigned to users when they join the server and removed from the bot once verified). Make sure the bot has a role higher than the "verified role" and the "unverified role."
 
-# Credits
-
-This free bot has been brought to you by the one and only unique FiveM anticheat, [fiveguard.net](https://fiveguard.net/). Join the [Fiveguard Discord](https://www.discord.gg/fiveguard) now. 
-
-It was not created by Fiveguard itself, but by a community member, gabjeksuper, and has nothing to do with it.
 
 # Anti Spoof
 
 To use it correctly to strengthen your anti-spoofing methods follow this website
 
 🌐 Website https://gabjeksuper.github.io/fiveguard-configuration/#anti-spoof
+
+
+# Credits
+
+This free bot has been brought to you by the one and only unique FiveM anticheat, [fiveguard.net](https://fiveguard.net/). Join the [Fiveguard Discord](https://www.discord.gg/fiveguard) now. 
+
+It was not created by Fiveguard itself, but by a community member, gabjeksuper, and has nothing to do with it.
