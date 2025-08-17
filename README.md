@@ -26,6 +26,13 @@ To use it correctly to strengthen your anti-spoofing methods follow this website
 🌐 Website https://gabjeksuper.github.io/fiveguard-configuration/#anti-spoof
 
 
+# Want More?
+
+Discord: gabjeksuper
+
+Want to rent a custom bot, tailored to your server and needs? 100% functional? Send me a private message on Discord (setup + hosting + future changes included).
+
+
 # Credits
 
 This free bot has been brought to you by the one and only unique FiveM anticheat, [fiveguard.net](https://fiveguard.net/). Join the [Fiveguard Discord](https://www.discord.gg/fiveguard) now. 
