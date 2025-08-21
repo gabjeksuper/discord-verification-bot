@@ -1,4 +1,4 @@
-# discord-verification-bot
+# Discord Verification Bot
 A free, self-hosted verification bot for community use/to improve your FiveM server's anti-spoofing protections
 
 
